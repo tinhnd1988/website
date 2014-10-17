@@ -33,4 +33,3 @@ sdf
 sd
 fsd
 f
-thanh
